@@ -27,8 +27,8 @@ This project includes:
 
 <img width="1912" height="833" alt="image" src="https://github.com/user-attachments/assets/f233859c-c82f-43dd-b8b4-7bbe3e7125bf" />
 <img width="1919" height="836" alt="image" src="https://github.com/user-attachments/assets/9c5d3a9b-fd84-4df4-a981-c98a9b598658" />
----------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------
 HTML5
 
 CSS3 (Grid, Flexbox, Animations)
@@ -105,5 +105,6 @@ Responsive design principles
 ✨ Author
 
 Ana Aziz Hemani
+
 
 
