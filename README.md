@@ -2,7 +2,7 @@
 
 A dynamic JavaScript dashboard featuring 8 mini applications powered by real-world public APIs.
 Each section fetches live data asynchronously and updates the DOM dynamically.
-
+---------------------------------------------------------------------------------------------------
 🌐 Live Features
 
 This project includes:
@@ -27,7 +27,7 @@ This project includes:
 
 <img width="1912" height="833" alt="image" src="https://github.com/user-attachments/assets/f233859c-c82f-43dd-b8b4-7bbe3e7125bf" />
 <img width="1919" height="836" alt="image" src="https://github.com/user-attachments/assets/9c5d3a9b-fd84-4df4-a981-c98a9b598658" />
-
+---------------------------------------------------------------------------------------------------
 
 HTML5
 
@@ -40,7 +40,7 @@ Async/Await
 Fetch API
 
 DOM Manipulation
-
+---------------------------------------------------------------------------------------------------
 ⚙️ How It Works
 
 Each dashboard section is built as an independent asynchronous function:
@@ -56,20 +56,20 @@ Dynamically render content using template literals
 Handle errors using try/catch
 
 The Movies section is displayed as a horizontally scrollable row, styled to resemble a streaming platform interface.
-
+---------------------------------------------------------------------------------------------------
 📂 Project Structure
 api-dashboard/
 │
 ├── index.html
 ├── style.css
 └── script.js
-
+---------------------------------------------------------------------------------------------------
 🔐 API Keys
 
 This project uses the TMDB API for trending movies.
 
 ⚠️ Note: In a production environment, API keys should be stored securely using environment variables or a backend server. For demonstration purposes, the key is included in the frontend code.
-
+---------------------------------------------------------------------------------------------------
 🎨 UI Highlights
 
 Dark gradient background
@@ -83,11 +83,11 @@ Horizontal scrolling movie row
 Staggered “product launch” entrance animations
 
 Responsive layout for smaller screens
-
+---------------------------------------------------------------------------------------------------
 🎥 Project Presentation
 
 A short 5-minute presentation video demonstrating the functionality and explaining the implementation is included in the submission.
-
+---------------------------------------------------------------------------------------------------
 📌 Learning Objectives Achieved
 
 Asynchronous JavaScript with async/await
@@ -101,9 +101,9 @@ DOM manipulation
 Error handling
 
 Responsive design principles
-
+---------------------------------------------------------------------------------------------------
 ✨ Author
 
-
 Ana Aziz Hemani
+
 
